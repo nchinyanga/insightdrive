@@ -1,4 +1,6 @@
 <h1>Hi, I'm Nyasha Chinyanga! </h1>
+Data Analytics | Machine Learning | AI Solutions for Zimbabwe | Python • SQL • Power BI • Excel
+
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 1. Telecom Churn Analysis
