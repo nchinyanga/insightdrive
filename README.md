@@ -1,7 +1,8 @@
 <h1>Hi, I'm Nyasha Chinyanga! </h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
-<h2>https://github.com/nchinyanga/telecom_churn_prediction</h2>
+1. Telecom Churn Analysis
+https://github.com/nchinyanga/telecom_churn_prediction
 
 
 <h2> 🤳 Connect with me:</h2>
